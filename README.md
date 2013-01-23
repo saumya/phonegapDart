@@ -7,4 +7,4 @@ This is a self learnign project and I must say it took me 5 days from start to f
 
 Technology :
 1. Dartlang (and Rikulo package)
-2. Phonegap 
+2. Phonegap ( version 2.3)
